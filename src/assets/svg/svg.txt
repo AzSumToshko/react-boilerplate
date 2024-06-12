@@ -1,0 +1,1 @@
+in this folder add the svgs that will be react components
